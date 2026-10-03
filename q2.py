@@ -1,3 +1,5 @@
+#Find the smallest and Largest Element: Write a program to accept N integers into an array and find and display the largest element, second largest element, smallest element, second smallest element present in the array. 
+
 n = int(input("enter the number of elements:"))
 
 arr = []
